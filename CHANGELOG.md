@@ -1,13 +1,9 @@
-2.2.0+196
+2.3.0+198
 
-• update mod Build Craft
-• update mod Energy Control
 • update mod Forge Discord RPC
-• update mod Integration Foregoing
+• update mod Logistics Pipes
 
-• update config Build Craft
 • update config Custom Main Menu
 • update config Forge Discord RPC
-• update config Integration Foregoing
 
-• remove unused files
+• revert mod Energy Control from 0.1.9 to 0.1.8
