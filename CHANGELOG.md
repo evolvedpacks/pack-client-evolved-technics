@@ -1,5 +1,5 @@
-2.9.0+212
+2.10.0+214
 
-• update mod Lazy Applied Energistics 2
+• update mod JAOPCA
 
 • update config Custom Main Menu
