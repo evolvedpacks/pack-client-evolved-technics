@@ -1,6 +1,5 @@
-2.14.0+222
+2.15.0+224
 
-• update mod Floralis
-• update mod Reborn Core
+• update mod Hammer Core
 
 • update config Custom Main Menu
