@@ -1,7 +1,5 @@
-2.16.0+226
+2.17.0+228
 
 • update mod Floralis
-• update mod Hammer Core
-• update mod Thermal Logistics
 
 • update config Custom Main Menu
