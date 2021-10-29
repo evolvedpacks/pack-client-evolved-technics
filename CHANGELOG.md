@@ -1,14 +1,13 @@
-2.18.0+232
+2.19.0+234
 
-• update mod Custom Loading Screen
-• update mod Extra CPUs
-• update mod Floralis
-• update mod JAOPCA
+• add mod Not Enough Energistics
+
+• update mod Energy Control
+• update mod Hammer Lib
 • update mod More Electric Tools
-• update mod Myst Library
-• update mod Mystical Lib
-• update mod Tesla Core Lib
+
+• remove mod Just Enough Energistics
+
+• add config Not Enough Energistics
 
 • update config Custom Loading Screen
-• update config Custom Main Menu
-• update config More Electric Tools
