@@ -1,13 +1,8 @@
-2.19.0+234
+2.20.0+236
 
-• add mod Not Enough Energistics
+• update mod Aroma Backup S3
+• update mod Lib Nine
+• update mod Not Enough Energistics
 
-• update mod Energy Control
-• update mod Hammer Lib
-• update mod More Electric Tools
-
-• remove mod Just Enough Energistics
-
-• add config Not Enough Energistics
-
-• update config Custom Loading Screen
+• update config Aroma Backup S3
+• update config Custom Main Menu
