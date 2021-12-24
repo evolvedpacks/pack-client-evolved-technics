@@ -1,8 +1,7 @@
-2.20.0+236
+2.21.0+238
 
-• update mod Aroma Backup S3
-• update mod Lib Nine
-• update mod Not Enough Energistics
+• update dependency Forge
 
-• update config Aroma Backup S3
+• update mod Floralis
+
 • update config Custom Main Menu
