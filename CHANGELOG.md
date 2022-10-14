@@ -1,18 +1,13 @@
-2.23.0+242
+2.24.0+244
 
-• add mod AE2 Utilities
-• add mod Mixin Booter
-
-• update mod Combo Armors
+• update mod Custom Loading Screen
 • update mod Dimensional Doors
 • update mod Energy Control
-• update mod Floralis
-• update mod Hammer Lib
-• update mod Myst Library
-• update mod Not Enough Energistics
+• update mod Foam Fix
+• update mod Mixin Booter
 
-• add config Agricraft
-
+• update config Custom Loading Screen
 • update config Custom Main Menu
+• update config Dimensional Doors
 • update config Energy Control
-• update config Not Enough Energistics
+• update config Foam Fix
